@@ -2,6 +2,6 @@
 It's a Portfolio.
 
 **Tech Stack**
--HTML
--CSS
+* HTML
+* CSS
 
